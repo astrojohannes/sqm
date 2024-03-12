@@ -1,6 +1,6 @@
 **SQM Finder**
 
-This little script shall help to find your Sky Quality Meter (SQM) on the network.
+This little python script shall help to find your Sky Quality Meter (SQM) on the network.
 
 _How it works_
 
